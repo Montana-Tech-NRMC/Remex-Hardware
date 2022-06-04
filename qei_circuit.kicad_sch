@@ -813,7 +813,7 @@
     (property "Value" "1uF" (id 1) (at 173.99 105.6131 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 171.45 104.775 0)
+    (property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-6032-15_Kemet-U" (id 2) (at 171.45 104.775 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 171.45 104.775 0)
